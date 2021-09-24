@@ -1,4 +1,4 @@
-# Machine Blearning
+## Hi, I'm Blearn
 
 I'm a software developer by trade, a game developer in my mind, and an artist in my heart. I am making games, tools, tutorials, and more!
 
